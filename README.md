@@ -11,7 +11,7 @@ Here is a summary of what I've worked on and some of the questions I've tried to
    
 ## The Teacher
 I have taken up the role of a student and a teacher. These are some disciplines that I have taught...
-1. Text Mining and Natural Langauge Processing in Python at University of North Carolina- Chapel Hill at the UNC DataAware Program
+1. Text Mining and Natural Langauge Processing in Python at University of North Carolina- Chapel Hill at the [UNC DataAware Program]([url](https://datamine.unc.edu/dataaware-training-modules/)) 
 2. Teaching Assistant for Informatics Courses:
    a. Methods in Medical Informatics (Python)
    b. Quality Improvement and Data Visulization (Tableau)
