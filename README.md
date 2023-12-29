@@ -1,4 +1,4 @@
-### I'm Ashley Victor! 
+# I'm Ashley Victor! 
 ## I started my career journey in bioinformatics and slowly starting adding new disiciplines, such as chemistry, pharmacogenomics, biology and health informatics. As I keep learning how to apply informatics among the different sciences, I add my projects to this github page! Here is a summary of what I've worked on and some of the questions I've tried to answer as a researcher.
 
 1. How does epigenetic aging impact xenobiotic metabolism in mice and in humans? 💊🐁
