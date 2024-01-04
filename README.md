@@ -9,7 +9,7 @@ Here is a summary of what I've worked on and some of the questions I've tried to
 4. What is the relationship between genetic risk of risky behaviors and implusive actions in college students? 👩🏻‍🏫
 5. How do we stay informed on the latest news in health informatics? How can we use the NCBI API as a tool to develop alerts on the latest publications in health informatics? 📰
 
-To learn more about these projects, click here. [cdfgvhbj]([fcgvhbjn](https://www.youtube.com/watch?v=a1bpBVV5Idk))
+To learn more about these projects, [click here](https://www.linkedin.com/in/ashley-victor/details/projects/)
    
 ## Teaching
 I have taken up the role of a student and a teacher. These are some disciplines that I have taught...
