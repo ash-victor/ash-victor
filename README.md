@@ -3,10 +3,14 @@ I started my career journey in bioinformatics and slowly started adding new disc
 
 # How much I've been using these programming languages for my projects            
 
-Python         ███████████▒░░░░░░░░░░░░   35%  
-JavaScript     ██████████▒░░░░░░░░░░░░░   30%  
-SQL            ██████▒░░░░░░░░░░░░░░░░░   25%  
-R              █▒░░░░░░░░░░░░░░░░░░░░░░   15%   
+Python        
+███████████▒░░░░░░░░░░░░   35%  
+JavaScript     
+██████████▒░░░░░░░░░░░░░   30%  
+SQL            
+██████▒░░░░░░░░░░░░░░░░░   25%  
+R              
+█▒░░░░░░░░░░░░░░░░░░░░░░   15%   
 
 ## Research
 Here is a summary of what I've worked on and some of the questions I've tried to answer as a researcher.
