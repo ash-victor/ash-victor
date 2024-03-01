@@ -3,10 +3,10 @@ I started my career journey in bioinformatics and slowly started adding new disc
 
 # How much I've been using these programming languages for my projects            
 
-Python       ███████████▒░░░░░░░░░░░░   35% 
+Python       ███████████▒░░░░░░░░░░░░   35% /n
 JavaScript   ██████████▒░░░░░░░░░░░░░   30%
 SQL          ██████▒░░░░░░░░░░░░░░░░░   25%
-R            █▒░░░░░░░░░░░░░░░░░░░░░░   15 % 
+R            █▒░░░░░░░░░░░░░░░░░░░░░░   15% 
 
 ## Research
 Here is a summary of what I've worked on and some of the questions I've tried to answer as a researcher.
@@ -31,7 +31,7 @@ I have taken up the role of a student and a teacher. These are some disciplines 
 4. Tutor for Advanced Statistics and Organic Chemistry (at Virginia Commonwealth University)
 
 ## Work
-I work as an informatics and data science intern for NC TraCS. Here I have been able to grow my skills as an data analyst. 
+I work as an informatics and data science intern for NC TraCS. Here I have been able to grow my skills as a data analyst. 
 1. Developed a React Dashboard highlighting the available data sources that TraCS provides
 2. Make data visualizations 
 
