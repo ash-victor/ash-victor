@@ -26,11 +26,11 @@ To learn more about these projects, [click here](https://www.linkedin.com/in/ash
 ## Teaching
 I have taken up the role of a student and a teacher. These are some disciplines that I have taught...
 1. Text Mining and Natural language processing in Python at the University of North Carolina- Chapel Hill at the [UNC DataAware Program](https://datamine.unc.edu/dataaware-training-modules/) 
-2. Teaching Assistant for Informatics Courses:
-   a. Methods in Medical Informatics (Python)
-   b. Quality Improvement and Data Visualization (Tableau)
-   c. Databases in U.S. Healthcare (MySQL)
-   d. U.S. Healthcare System Course
+2. Teaching Assistant for Informatics Courses:  
+   a. Methods in Medical Informatics (Python)  
+   b. Quality Improvement and Data Visualization (Tableau)  
+   c. Databases in U.S. Healthcare (MySQL)  
+   d. U.S. Healthcare System Course  
 3. Tutor for Programming for Information Professionals (Python)
 4. Tutor for Advanced Statistics and Organic Chemistry (at Virginia Commonwealth University)
 
