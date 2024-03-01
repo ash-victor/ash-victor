@@ -3,7 +3,7 @@ I started my career journey in bioinformatics and slowly started adding new disc
 
 # How much I've been using these programming languages for my projects            
 
-Python       ███████████▒░░░░░░░░░░░░   35% /n
+Python       ███████████▒░░░░░░░░░░░░   35% '/n'
 JavaScript   ██████████▒░░░░░░░░░░░░░   30%
 SQL          ██████▒░░░░░░░░░░░░░░░░░   25%
 R            █▒░░░░░░░░░░░░░░░░░░░░░░   15% 
