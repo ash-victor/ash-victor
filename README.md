@@ -1,7 +1,7 @@
 # I'm Ashley Victor, and here is a little about me.
 I started my career journey in bioinformatics and slowly started adding new disciplines, such as chemistry, pharmacogenomics, biology, and health informatics. As I keep learning how to apply informatics among the different sciences, I add my projects to this GitHub page! 
 
-# How much I've been using these programming languages for my projects            
+## How much I've been using these programming languages for my projects            
 
 Python        
 ███████████▒░░░░░░░░░░░░   35%  
