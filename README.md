@@ -10,7 +10,7 @@ JavaScript
 SQL            
 █████▒░░░░░░░░░░░░░░   25%  
 R              
-█▒░░░░░░░░░░░░░░░░░░░░░░   10%   
+█▒░░░░░░░░░░░░░░░░░░   10%   
 
 ## Research
 Here is a summary of what I've worked on and some of the questions I've tried to answer as a researcher.
